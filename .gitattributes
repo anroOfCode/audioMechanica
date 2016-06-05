@@ -1,0 +1,6 @@
+* text=auto
+
+*.cs text
+*.xaml text
+
+*.sln text eol=crlf
