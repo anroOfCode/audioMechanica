@@ -34,8 +34,8 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="CSCore, Version=1.1.5992.18249, Culture=neutral, PublicKeyToken=5a08f2b6f4415dea, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\GitHub\cscore\CSCore\bin\Debug\CSCore.dll</HintPath>
+      <HintPath>packages\CSCore.1.1.0\lib\net35-client\CSCore.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
