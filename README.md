@@ -17,3 +17,4 @@ Currently consists of:
 * Followed instructions for CUDA7.5, mingw, libpython, theano, pycuda ([source](https://vanishingcodes.wordpress.com/2015/10/25/installing-cuda-7-5-and-pycuda-on-windows-for-testing-theano-with-gpu/))
 * Jupyter notebooks started from Anaconda Command Prompt
 * `pip install pyglet` for multimedia playback
+* `git clone https://github.com/jameslyons/python_speech_features; cd python_speech_features; python setup.py install` for MFCC lib
