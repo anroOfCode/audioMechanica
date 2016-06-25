@@ -1,3 +1,0 @@
-[submodule "notebooks/python_speech_features"]
-	path = notebooks/python_speech_features
-	url = https://github.com/jameslyons/python_speech_features.git
